@@ -1,0 +1,5 @@
+<ul class="list-group list-group-flush">
+  <li class="list-group-item"><span class="text-danger">Я</span> Тиц: <br><span class="f90">{cy_one} <i class="fa fa-angle-double-left text-success" aria-hidden="true"></i> {cy_two} <i class="fa fa-angle-double-left text-success" aria-hidden="true"></i> {cy_tree}</span></li>
+  <li class="list-group-item"><span class="text-danger">Я</span> Выдачи: <br><span class="f90">{serp_one} <i class="fa fa-angle-double-left text-success" aria-hidden="true"></i> {serp_two} <i class="fa fa-angle-double-left text-success" aria-hidden="true"></i> {serp_tree}</span></li>
+  <li class="list-group-item"><span class="text-danger">Я</span> Каталог: <br><span class="f90">{yaca_one} <i class="fa fa-angle-double-left text-success" aria-hidden="true"></i> {yaca_two} <i class="fa fa-angle-double-left text-success" aria-hidden="true"></i> {yaca_tree}</span></li>
+</ul>
